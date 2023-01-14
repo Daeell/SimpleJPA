@@ -1,6 +1,6 @@
 package SimpleJPA.web.dto;
 
-import SimpleJPA.Posts;
+import SimpleJPA.entity.Posts;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

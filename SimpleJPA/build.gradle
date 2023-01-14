@@ -30,7 +30,7 @@ dependencies {
 	runtimeOnly 'com.h2database:h2'
 
 	implementation group: 'org.springframework.data', name: 'spring-data-redis', version: '2.7.0'
-	implementation group: 'redis.clients', name: 'jedis', version: '4.2.3'
+	implementation group: 'redis.clients', name: 'jedis', version: '3.9.0'
 
 }
 
