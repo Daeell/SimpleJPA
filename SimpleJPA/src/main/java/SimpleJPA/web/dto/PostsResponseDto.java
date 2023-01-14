@@ -1,6 +1,6 @@
 package SimpleJPA.web.dto;
 
-import SimpleJPA.Posts;
+import SimpleJPA.entity.Posts;
 
 public class PostsResponseDto {
     private Long id;

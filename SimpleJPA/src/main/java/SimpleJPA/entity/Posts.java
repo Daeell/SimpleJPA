@@ -1,4 +1,4 @@
-package SimpleJPA;
+package SimpleJPA.entity;
 
 import lombok.Builder;
 import lombok.Getter;

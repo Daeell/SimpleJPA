@@ -1,6 +1,6 @@
 package SimpleJPA.service;
 
-import SimpleJPA.Posts;
+import SimpleJPA.entity.Posts;
 import SimpleJPA.PostsRepository;
 import SimpleJPA.web.dto.PostsResponseDto;
 import SimpleJPA.web.dto.PostsSaveRequestDto;
